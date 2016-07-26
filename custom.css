@@ -1,0 +1,42 @@
+body{
+	background-color: #E6DDD4;
+}
+.warna{
+	background-color: #EAEAEA;
+}
+.top{
+	margin-bottom: 0px !important;
+}
+.navbar-brand{
+	height: auto;
+}
+.navbar{
+	border-radius:0px !important;
+	border:0px !important;
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+.padding{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.glaphycon{
+	margin-right: 10px;
+}
+.warna1{
+	background-color: #fff;
+	padding-top: 30px;
+}
+.foto{
+	text-align: center;
+}
+.caption{
+	text-align: center;
+}
+.border{
+	border:0px !important;
+}
+.besar li a{
+	padding: 20px 30px;
+}
