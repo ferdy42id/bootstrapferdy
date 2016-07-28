@@ -141,3 +141,6 @@ body{
 .nomor li{
 	padding: 10px 30px;
 }
+textarea.height{
+	height: 120px;
+}
