@@ -1,8 +1,8 @@
 body{
-	background-color: #E6DDD4;
+	background-color: #fff;
 }
 .warna{
-	background-color: #EAEAEA;
+	background-color: #fff;
 }
 .top{
 	margin-bottom: 0px !important;
@@ -115,4 +115,29 @@ body{
 }
 .besarhuruf{
 	font-size: 15px;
+}
+.navbar-default .navbar-nav .active a{
+	border-bottom-left-radius: 30px;
+	border-top-right-radius: 30px;
+}	
+
+@media (min-width: 768px){
+    .navbar-nav{
+        float:none;
+        margin: 0 auto;
+        display: table;
+        table-layout: fixed;
+    }
+}
+.form-group{
+	padding: 10px 15px;
+}
+.small{
+	width: auto;
+}
+.panel-body{
+	border-top: 2px solid black;
+}
+.nomor li{
+	padding: 10px 30px;
 }
