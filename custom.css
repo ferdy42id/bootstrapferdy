@@ -144,3 +144,24 @@ body{
 textarea.height{
 	height: 120px;
 }
+.profile a{
+	float: left;
+}
+.breadcrumb{
+	background-color: transparent;
+	margin-bottom: 0px;
+	border-radius: 0px;
+}
+.tengah{
+	background-color: #fff;
+}
+.current-page{
+	background-color: #FFFFFF;
+}
+.jarak{
+	margin-top:50px;
+	margin-bottom: 0px;
+}
+.panel{
+	margin-top: 50px; 
+}
